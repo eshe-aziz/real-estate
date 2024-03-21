@@ -1,0 +1,340 @@
+ul {
+  list-style-type: none;
+  margin: auto;
+  margin-left: 200px;
+  margin-right: 100px;
+  padding: 1px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  padding-left: 300px;
+  background-color: #f8f1f1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: flex;
+  justify-content: space-evenly;
+  color: rgb(32, 31, 31);
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+
+button{
+  width: 150px;
+  background-color: rgb(21, 177, 244);
+  color: #ffffff;
+  border: none;
+  margin-left: 400px;
+  margin-right: 5px;
+  padding: 12px;
+  border-radius: 20px;
+}
+
+.one{
+  font-size: 90px;
+}
+
+h4{
+  background-color: rgb(31, 53, 132);
+  color: #ffffff;
+  border: 2px;
+  border-radius: 20px;
+  padding: 10px;
+  width: 400px;
+  margin-left: 750px;
+  margin-top: 50px;
+}
+
+.align{
+  text-align: center;
+}
+
+
+.nav{
+  padding-left: 100px;
+  margin-left: 650px;
+}
+
+.img{
+  padding-left: 310px;
+  border-radius: 50%;
+}
+
+.logo{
+  padding-left: 200px;
+}
+
+.home{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 40px;
+}
+
+.sty{
+  font-size: 30px;
+}
+
+.buyer{
+  font-size: 40px;
+}
+
+.homepro{
+  text-align: center;
+}
+
+.pro{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.buy{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+
+.drm{
+  font-size: 70px;
+}
+
+.dream{
+  padding-top: 50px;
+  padding-left: 250px;
+}
+
+.lux{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.home{
+  font-size: 30px;
+}
+
+.font{
+  background-color: rgb(240, 241, 245);
+  border: 2px;
+  border-radius: 20px;
+  padding: 10px;
+  width: 150px;
+  
+  margin-top: 50px;
+}
+
+.learn{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 40px;
+}
+
+.prop{
+  font-size: 50px;
+}
+
+.sell{
+  display: flex;
+}
+
+.pee{
+  font-size: 20px;
+}
+
+.app{
+  font-size: 70px;
+}
+
+.mon{
+  font-size: 40px;
+}
+
+.see{
+  margin-left: 10px;
+}
+
+.radius{
+  border-radius: 20px;
+}
+
+.three{
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 20px;
+}
+
+.text{
+  text-align: center;
+}
+
+.one{
+border-radius: 20px;
+}
+
+.main{
+  padding-top: 150px;
+}
+
+.four{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 200px;
+}
+
+.cust{
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.hech{
+font-size: 40px;
+}
+
+.line{
+  width: 40px;
+}
+.woman{
+  opacity: 0.2;
+}
+
+.fato{
+  background-color: rgb(224, 221, 221);
+  border-radius: 10px;
+  margin-right: 100px;
+}
+
+.email{
+  padding-left: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 20px;
+}
+
+.btn{
+  width: 150px;
+  background-color: rgb(31, 53, 132);
+  border: none;
+  margin-right: 700px;
+  padding: 12px;
+  border-radius: 20px;
+}
+
+.text1{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 70px;
+}
+
+@media screen and (max-width: 480px){
+  
+.one{
+  font-size: 30px;
+  width: 150px;
+}
+
+h4{
+  background-color: rgb(31, 53, 132);
+  color: #ffffff;
+}
+
+.img{
+  width: -800px;
+}
+
+.home{
+  display: flex;
+  justify-content: space-between;
+}
+
+.sty{
+  font-size: 15px;
+}
+
+.buyer{
+  font-size: 20px;
+}
+  
+.hme{
+  font-size: 20px;
+}
+
+.pro{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.buy{
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 50px;
+}
+
+.drm{
+  font-size: 30px;
+}
+
+.dream{
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+.lux{
+  display: flex;
+  flex-direction: row;
+}
+
+.home{
+  font-size: 5px;
+}
+
+
+.learn{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 10px;
+  width: 40px;
+}
+
+.prop{
+  font-size: 25px;
+}
+
+.pee{
+  font-size: 15px;
+}
+
+.app{
+  font-size: 30px;
+}
+
+.mon{
+  font-size: 20px;
+}
+
+.four{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 100px;
+}
+
+.cust{
+  padding-top: 50px;
+  display: grid;
+  grid-template-columns: 2 1fr;
+}
+
+.hech{
+  font-size: 30px;
+}
+
+
+
+}
