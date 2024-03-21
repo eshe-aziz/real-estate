@@ -2,12 +2,11 @@ ul {
   list-style-type: none;
   margin: auto;
   margin-left: 200px;
-  margin-right: 100px;
+  margin-right: 70px;
   padding: 1px;
   padding-bottom: 30px;
   margin-top: 20px;
   padding-left: 300px;
-  background-color: #f8f1f1;
 }
 
 li {
